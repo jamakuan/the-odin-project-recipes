@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "8a45a634a1848fd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "47125acdc6ea8447",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "119c9e26002222d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79dd973a26ce4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c7176caa7156368",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31ec7333cbecee7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aad7f7f7a9589b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "749e0b4024c25d53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220
+  },
+  "right": {
+    "id": "a01855d8260c32f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "383cd24879b1875d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e5588a8316e005",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bc462162c37d2eea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "9b8a58afa9c7c175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "70c553a38fce1732",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "49a5b21517e9671b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "47125acdc6ea8447",
+  "lastOpenFiles": [
+    "2021 Bullet/2021 Daily/2022-04-27.md",
+    "2021 Bullet/2021 Daily/2022-04-14.md",
+    "2021 Bullet/2021 Daily/2022-04-03.md",
+    "Python-100-Days/Day01-15/02.语言元素.md",
+    "Python-100-Days/Day01-15/01.初识Python.md",
+    "de7c5aabf2ca61009bdcd52e6ba078f4.png",
+    "2021 Bullet/2021 Daily/2022-03-31.md",
+    "marginnote test.md",
+    "2021 Bullet/2021 Daily/2022-03-30.md",
+    "Introduction to Data Science in Python.md"
+  ]
+}
